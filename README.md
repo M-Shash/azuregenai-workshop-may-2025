@@ -11,4 +11,4 @@
 [Developing Intelligent Chat Applications with Azure RAG(Using Python)](https://microsoftlearning.github.io/mslearn-ai-studio/Instructions/04-Use-own-data.html)
 
 ## Day2
-[Deploying and Testing a Conversational AI solution with Azure RAG](https://microsoftlearning.github.io/mslearn-openai/Instructions/Exercises/02-use-own-data.html)
+[RAG](https://microsoftlearning.github.io/mslearn-openai/Instructions/Exercises/02-use-own-data.html)
