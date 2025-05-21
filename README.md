@@ -13,7 +13,7 @@
 ## Day2
 
 
-[RAG](https://microsoftlearning.github.io/mslearn-openai/Instructions/Exercises/02-use-own-data.html)
+[Q&A with Semantic Answering with Azure OpenAl Service](https://microsoftlearning.github.io/mslearn-openai/Instructions/Exercises/02-use-own-data.html)
 
 
 ## Day3
