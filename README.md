@@ -22,3 +22,5 @@
 [Build a custom chat app with Azure Al Foundry SDK](https://microsoftlearning.github.io/mslearn-ai-studio/Instructions/02a-AI-foundry-sdk.html)
 
 [Exploring Azure OpenAl Agents with Bing Search Integration](https://learn.microsoft.com/en-us/azure/ai-services/agents/how-to/tools/bing-code-samples?pivots=portal)
+
+[Develop a multi-agent solution](https://microsoftlearning.github.io/mslearn-ai-agents/Instructions/05-agent-orchestration.html)
