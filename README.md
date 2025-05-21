@@ -12,3 +12,7 @@
 
 ## Day2
 [RAG](https://microsoftlearning.github.io/mslearn-openai/Instructions/Exercises/02-use-own-data.html)
+
+
+
+[Exploring Azure OpenAl Agents with Bing Search Integration](https://learn.microsoft.com/en-us/azure/ai-services/agents/how-to/tools/bing-code-samples?pivots=portal)
