@@ -8,6 +8,8 @@
 
 [Building a chat app (using .NET) using Azure Open Al Service and RAG](https://microsoftlearning.github.io/mslearn-ai-studio/Instructions/04-Use-own-data.html)
 
+### Require a lot of resources and time to perform the below hands-on as it requires multiple Azure services.
+
 [Developing Intelligent Chat Applications with Azure RAG(Using Python)](https://microsoftlearning.github.io/mslearn-ai-studio/Instructions/04-Use-own-data.html)
 
 ## Day2
