@@ -15,6 +15,8 @@
 
 [Q&A with Semantic Answering with Azure OpenAl Service](https://microsoftlearning.github.io/mslearn-openai/Instructions/Exercises/02-use-own-data.html)
 
+[Deploying and Testing a Conversational Al Solution with Azure RAG Accelerator](https://github.com/microsoft/rag-experiment-accelerator)
+
 
 ## Day3
 
