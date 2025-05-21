@@ -11,8 +11,14 @@
 [Developing Intelligent Chat Applications with Azure RAG(Using Python)](https://microsoftlearning.github.io/mslearn-ai-studio/Instructions/04-Use-own-data.html)
 
 ## Day2
+
+
 [RAG](https://microsoftlearning.github.io/mslearn-openai/Instructions/Exercises/02-use-own-data.html)
 
 
 ## Day3
+
+
+[Build a custom chat app with Azure Al Foundry SDK](https://microsoftlearning.github.io/mslearn-ai-studio/Instructions/02a-AI-foundry-sdk.html)
+
 [Exploring Azure OpenAl Agents with Bing Search Integration](https://learn.microsoft.com/en-us/azure/ai-services/agents/how-to/tools/bing-code-samples?pivots=portal)
